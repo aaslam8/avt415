@@ -38,6 +38,10 @@ h3 {
 	color: #C75B7A;
 }
 
+p {
+	color: #921A40;
+}
+
 /**** Bullet point color ****/
 li::marker {
 	color: #C75B7A;
