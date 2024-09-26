@@ -1,5 +1,5 @@
 body {
-	background-color: goldenrod;
+	background-color: lightpink;
 }
 h1 {
 	font-family: sans-serif;
@@ -11,8 +11,8 @@ h1 {
 	margin-top: 35vh;
 }
 
-@media screen and (min-width: 768px) {
-	/* styles for screen sizes 768px and above */
+@media screen and (max-width: 768px) {
+	/* styles for screen sizes 768px and below */
 	body {
 		background-color: tomato;
 	}
